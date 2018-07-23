@@ -51,5 +51,7 @@ description: 当你在设计面板绑定接口数据时，发现js文件中的�
     listData: [],
 ```
 
-
+{% hint style="info" %}
+js 文件解析依赖全局的node环境，在使用该功能时需要在本地安装node.js 
+{% endhint %}
 
