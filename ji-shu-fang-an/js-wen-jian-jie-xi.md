@@ -55,3 +55,18 @@ description: 当你在设计面板绑定接口数据时，发现js文件中的�
 js 文件解析依赖全局的node环境，在使用该功能时需要在本地安装node.js 
 {% endhint %}
 
+### 子页面事件示例
+
+```text
+/**
+ * @emit close
+ * @desc 关闭弹框
+ */
+```
+
+{% hint style="info" %}
+emit 注释不要写在方法内部，可以和typedef写在一起
+{% endhint %}
+
+此处说明在子页面中包含   **this.$emit\('close'\)**  代码
+
