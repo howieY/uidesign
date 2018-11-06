@@ -27,6 +27,7 @@
   * [样式组件](ji-chu-ru-men/untitled.md)
   * [数据绑定](ji-chu-ru-men/shu-ju-bang-ding.md)
 * [编译](dai-ma-sheng-cheng.md)
+* [版本](ban-ben.md)
 * [开发面板的使用](kai-fa-mian-ban-de-shi-yong/README.md)
   * [代码编辑器](kai-fa-mian-ban-de-shi-yong/dai-ma-bian-ji-qi.md)
   * [模拟器的使用](kai-fa-mian-ban-de-shi-yong/mo-ni-qi-de-shi-yong.md)
