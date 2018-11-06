@@ -30,6 +30,7 @@
 * [版本](ban-ben.md)
 * [开发面板的使用](kai-fa-mian-ban-de-shi-yong/README.md)
   * [代码编辑器](kai-fa-mian-ban-de-shi-yong/dai-ma-bian-ji-qi.md)
+  * [代码解析说明](kai-fa-mian-ban-de-shi-yong/dai-ma-jie-xi-shuo-ming.md)
   * [模拟器的使用](kai-fa-mian-ban-de-shi-yong/mo-ni-qi-de-shi-yong.md)
 * [协同](mo-ni-shu-ju-de-shi-yong/README.md)
   * [项目协同](mo-ni-shu-ju-de-shi-yong/xie-tong-xiang-mu-xie-tong.md)
